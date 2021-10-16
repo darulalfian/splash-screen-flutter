@@ -1,6 +1,6 @@
 # splashscreen
 
-A new Flutter project.
+A Splash Screen project Darul.
 
 ## Getting Started
 
